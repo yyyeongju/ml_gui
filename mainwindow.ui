@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1108</width>
-    <height>776</height>
+    <width>1078</width>
+    <height>766</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,8 +17,8 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>70</x>
-      <y>40</y>
+      <x>40</x>
+      <y>30</y>
       <width>111</width>
       <height>41</height>
      </rect>
@@ -30,7 +30,7 @@
    <widget class="QPushButton" name="Browse">
     <property name="geometry">
      <rect>
-      <x>220</x>
+      <x>200</x>
       <y>40</y>
       <width>93</width>
       <height>28</height>
@@ -40,10 +40,10 @@
      <string>Browse</string>
     </property>
    </widget>
-   <widget class="QListView" name="listView">
+   <widget class="QListView" name="colum_list">
     <property name="geometry">
      <rect>
-      <x>60</x>
+      <x>40</x>
       <y>90</y>
       <width>256</width>
       <height>192</height>
@@ -53,7 +53,7 @@
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>330</x>
+      <x>310</x>
       <y>130</y>
       <width>64</width>
       <height>15</height>
@@ -79,8 +79,8 @@
    <widget class="QLabel" name="shape">
     <property name="geometry">
      <rect>
-      <x>620</x>
-      <y>60</y>
+      <x>610</x>
+      <y>50</y>
       <width>64</width>
       <height>15</height>
      </rect>
@@ -92,10 +92,10 @@
    <widget class="QComboBox" name="scaler_btn">
     <property name="geometry">
      <rect>
-      <x>750</x>
-      <y>60</y>
+      <x>730</x>
+      <y>40</y>
       <width>161</width>
-      <height>21</height>
+      <height>31</height>
      </rect>
     </property>
     <item>
@@ -118,7 +118,7 @@
     <property name="geometry">
      <rect>
       <x>940</x>
-      <y>50</y>
+      <y>40</y>
       <width>93</width>
       <height>28</height>
      </rect>
@@ -143,7 +143,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1108</width>
+     <width>1078</width>
      <height>26</height>
     </rect>
    </property>
